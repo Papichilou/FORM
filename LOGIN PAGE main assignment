@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+<title>LOGIN FORM</title>
+</head>
+<body>
+<center>LOGIN HERE
+<br></br>
+  <form>
+    <label>Enter your email</label>
+    <input type="text" name="enter email" placeholder="Doejohn@gmail.com">
+<br></br>
+<label>Password</label>
+    <input type="text" name="password"  placeholder="*******">
+    <br></br>
+<button>SIGN UP</button>
+
+
+</center>
+
+</body>
+</html>
